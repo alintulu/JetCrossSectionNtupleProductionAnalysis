@@ -1,0 +1,12 @@
+*~
+*.d
+*.so
+*.o
+*_cc_ACLiC_dict_rdict.pcm
+*_C_ACLiC_dict_rdict.pcm
+*.root
+!output*.root
+.__afs*
+*.tar.gz
+RooUnfold/
+*.log
